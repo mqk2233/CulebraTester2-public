@@ -97,4 +97,4 @@ alt="CulebraTester2-ui preview" width="560" height="395" border="1" /></a>
 # Communication
 Found issues? Use https://github.com/dtmilano/CulebraTester2-public/issues
 
-Have questions? Use https://stackoverflow.com/questions/tagged/androidviewclient.
+Have questions? Use https://stackoverflow.com/questions/tagged/androidviewclient..
